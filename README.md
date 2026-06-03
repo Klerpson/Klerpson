@@ -29,7 +29,7 @@ Desarrollo sitios web ultrarrápidos con **Jekyll** y los optimizo para que domi
 
 ## 📈 Actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klerpson&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klerpson&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)](https://github.com/Klerpson)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Klerpson&theme=dark&hide_border=true)
 
